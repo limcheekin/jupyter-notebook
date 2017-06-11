@@ -5,3 +5,16 @@ simple.dotfile
 simpletree.png
 kNN_test_train.csv
 Thumbs.db
+**/*.sav
+
+### fastai-courses ###
+**/_site/
+**/.sass-cache/
+**/.jekyll-metadata
+**/.ipynb_checkpoints/
+**/data/
+**/*.pyc
+**/*.h5
+**/ai_aliases.sh
+**/fast-ai-commands.txt
+**/fast-ai-remove.sh
