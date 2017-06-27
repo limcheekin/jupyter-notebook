@@ -18,3 +18,7 @@ Thumbs.db
 **/ai_aliases.sh
 **/fast-ai-commands.txt
 **/fast-ai-remove.sh
+
+**/*.csv
+
+
